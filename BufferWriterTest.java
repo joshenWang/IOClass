@@ -40,4 +40,11 @@ public static void show(){
 
 
 
+
+public  static  void  show1()
+{
+    System.out.println("hghghhhhhh");
+
+}
+
 }
