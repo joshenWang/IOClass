@@ -26,20 +26,17 @@ public class BufferWriterTest {
             bufw.newLine();
 
             bufw.flush();
-
-
-
         }
-
 
         bufw.close();
 
-
-
-
-
     }
 
+public static void show(){
+
+
+    System.out.println("hello joshenWang");
+}
 
 
 
