@@ -48,5 +48,10 @@ public static void show(){
 
 
 
+    public static void method1(){
+
+        System.out.println("djshdsjhd");
+
+    }
 
 }
