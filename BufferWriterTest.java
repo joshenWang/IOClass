@@ -38,13 +38,19 @@ public static void show(){
     System.out.println("hello joshenWang");
 }
 
+    public void method(){
 
 
+        System.out.println("this is my change");
 
-public  static  void  show1()
-{
-    System.out.println("hghghhhhhh");
+
+    }
+
+    public  static  void  show1()
+    {
+        System.out.println("hghghhhhhh");
+
+    }
 
 }
 
-}
