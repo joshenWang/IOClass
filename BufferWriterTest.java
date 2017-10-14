@@ -41,6 +41,15 @@ public class BufferWriterTest {
     }
 
 
+    public void method(){
+
+
+        System.out.println("this is my change");
+
+
+    }
+
+
 
 
 }
